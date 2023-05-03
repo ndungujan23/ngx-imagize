@@ -12,7 +12,7 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "paths": {
-      "angularLibraryStarter": ["dist/angular-library-starter"]
+      "ngxPixlr": ["dist/ngx-pixlr"]
     },
     "declaration": false,
     "downlevelIteration": true,

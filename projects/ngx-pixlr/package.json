@@ -1,5 +1,5 @@
 {
-  "name": "angular-library-starter",
+  "name": "ngx-pixlr",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^15.0.4",
